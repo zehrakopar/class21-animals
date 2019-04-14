@@ -1,3 +1,6 @@
 cat
 turtle
 rabbit
+panda
+snake
+hamster
